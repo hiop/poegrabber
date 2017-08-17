@@ -1,5 +1,10 @@
 ﻿# PoE Original Grabber
-Находит оригинальное название предмета при помощи HTTP запроса на ру вики проекта.
+Находит оригинальное название предмета при помощи запроса информации с RU WIKI PathOfExile.
+<h2>Что нужно, чтобы запустить?</h2>
+<ol type="1">
+  <li>Скачать <a href="https://autohotkey.com/">AutoHotkey</a></li>
+<li>Скачать последний релиз.</li>
+</ol>
 <h2>Как это работает</h2>
 <p>1. Наводим на предмет и жмём сочетание клавишь <b>Ctrl+C</b> (когда появится описание, как на рисунке ниже) </p>
 <img src="https://github.com/hiop/poegrabber/blob/master/img/ctrlc.PNG" height="45%" width="45%" >
