@@ -15,7 +15,7 @@
 <ol type="1">
 <li>Наводим на предмет и жмём сочетание клавишь <b>Ctrl+C</b> (когда появится описание, как на рисунке ниже) </li>
 <img src="https://github.com/hiop/poegrabber/blob/master/img/ctrlc.PNG" height="45%" width="45%" >
-<li>Далее работает <b>grabber</b></li>
+<li>Далее программа осуществяет поиск оригинального названия </li>
 <li>Если оригинальное название предмета найдено, то оповещение будет примерно таким</li>
 <img src="https://github.com/hiop/poegrabber/blob/master/img/popup.PNG" height="50%" width="50%" >
 <li>Также, после успешного поиска оригинальное название предмета помещается в буффер обмена (то бишь <b>Ctrl+V</b>).</li>
