@@ -1,4 +1,4 @@
-﻿Traytip, Poe Script, "Скрипт запущен!",,1
+﻿Traytip, PoE Grabber, "Скрипт запущен!",,1
 
 IfNotExist, %A_WorkingDir%\poescrptshy.lnk
 {
@@ -31,14 +31,14 @@ OnClipboardChange:
 		varString = %clipboard%
 		If (InStr(varString, "|")){
 			StringReplace, clipboard, clipboard, |, , All
-			Traytip, Poe Script, %clipboard%,,1
+			Traytip, PoE Grabber, %clipboard%,,1
 		}
 		If (InStr(varString, "$empty")){
-			Traytip, Poe Script, Нет обработчика!!!,,1
+			Traytip, PoE Grabber, Нет обработчика!!!,,1
 			clipboard=
 		}
 		If (InStr(varString, "$none")){
-			Traytip, Poe Script, Проблема с предметом!!!,,1
+			Traytip, PoE Grabber, Проблема с предметом!!!,,1
 			clipboard=
 		}
 	}
