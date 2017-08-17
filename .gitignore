@@ -1,3 +1,4 @@
 *.json
 *.lnk
 *.txt
+build/
