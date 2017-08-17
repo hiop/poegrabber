@@ -7,7 +7,7 @@
 <ol type="1">
   <li>Скачать и установить <a href="https://autohotkey.com/">AutoHotkey</a></li>
   <li>Скачать и разместить на диске <a href="https://github.com/hiop/poegrabber/releases">последний релиз</a></li>
-  <li>Запустить POE OG START</li>
+  <li>Запустить <i>POE OG START.ahk</i></li>
 </ol>
 
 <h2>Как это работает?</h2>
