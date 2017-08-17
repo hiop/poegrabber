@@ -8,7 +8,7 @@
   <li>Скачать и установить <a href="https://autohotkey.com/">AutoHotkey</a></li>
   <li>Скачать и разместить на диске <a href="https://github.com/hiop/poegrabber/releases">последний релиз</a></li>
   <li>Запустить <i>POE OG START.ahk</i></li>
-  <li><a href="#Как-этим-пользоваться">Далее</a></li>
+  <li><a href="#Как-этим-пользоваться">Как этим пользоваться</a></li>
 </ol>
 
 <h1>Как этим пользоваться?</h1>
