@@ -2,3 +2,4 @@
 *.lnk
 *.txt
 build/
+dist/
